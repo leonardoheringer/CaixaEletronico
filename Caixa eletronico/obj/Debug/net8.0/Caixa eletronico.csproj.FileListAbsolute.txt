@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\bin\Debug\net8.0\Caixa eletronico.exe
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\bin\Debug\net8.0\Caixa eletronico.deps.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\bin\Debug\net8.0\Caixa eletronico.runtimeconfig.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\bin\Debug\net8.0\Caixa eletronico.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\bin\Debug\net8.0\Caixa eletronico.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\Caixa eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\Caixa eletronico.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\Caixa eletronico.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\Caixa eletronico.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\Caixa eletronico.sourcelink.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\Caixa eletronico.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\refint\Caixa eletronico.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\Caixa eletronico.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\Caixa eletronico.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\CaixaEletronico\Caixa eletronico\obj\Debug\net8.0\ref\Caixa eletronico.dll
