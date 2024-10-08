@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ud+CyL0gtsg=",
+  "dgSpecHash": "UUlgDS4eV8U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alunos\\Documents\\Informatica Tarde\\Leonardo Heringer\\CaixaEletronico\\Caixa eletronico\\Caixa eletronico.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\CaixaEletronico\\Caixa eletronico\\Caixa eletronico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.7\\microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.7\\microsoft.windowsdesktop.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.7\\microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.7\\microsoft.netcore.app.host.win-x64.8.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
