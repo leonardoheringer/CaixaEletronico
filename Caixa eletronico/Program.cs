@@ -7,7 +7,7 @@ double saldoC = 0;
 double saldoP = 0;
 double saldoCD = 0;
 string extratoC = "";
-double tentativa = 0;
+double tentativa = 1;
 double taxa = 0.005;
 double taxat;
 double taxaP = 0.05;
@@ -77,7 +77,7 @@ while (!termino)
                 string tcpf = Console.ReadLine();
                 if (tcpf != cpf)
                 {
-                    Console.WriteLine("Erro! CPF digitado não confere");
+                    Console.WriteLine($"Erro! CPF digitado não confere, tentativa numero {tentativa}");
                     tentativa++;
                     Thread.Sleep(1500);
                     continue;
@@ -87,7 +87,7 @@ while (!termino)
                 string tsenha = Console.ReadLine();
                 if (tsenha != senha)
                 {
-                    Console.WriteLine("Erro! Senha digitada não confere");
+                    Console.WriteLine($"Erro! Senha digitada não confere , tentativa numero {tentativa}");
                     tentativa++;
                     Thread.Sleep(1500);
                     continue;
